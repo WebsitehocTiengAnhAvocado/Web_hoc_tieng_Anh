@@ -1,5 +1,6 @@
-#Mặc định trưởng nhóm review
+# Mặc định trưởng nhóm review cho toàn bộ dự án
 * @anhchuoi28
-#Theo thư mục
+
+# Theo từng thư mục
 /backend/ @MinhYPhan @ngocthaiduong
 /frontend/ @TrNhi01
